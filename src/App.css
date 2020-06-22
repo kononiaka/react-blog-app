@@ -1,0 +1,9 @@
+body {
+  background: rgb(177, 176, 176);
+}
+
+.App {
+  width: 90%;
+  border: 1px solid black;
+  margin: 0 auto;
+}
