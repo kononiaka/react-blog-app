@@ -1,4 +1,14 @@
 .header {
   display: flex;
   justify-content: space-between;
+  margin: 10px;
+}
+.headerLinks a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: azure;
+}
+
+.headerLinks a:hover {
+  color: aqua;
 }
