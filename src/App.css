@@ -1,5 +1,12 @@
+@font-face {
+  font-family: "Dancing Script";
+  src: url(./assets/fonts/DancingScript-Bold.ttf);
+  font-weight: bold;
+}
+
 body {
   background: rgb(177, 176, 176);
+  font-family: "Dancing script";
 }
 
 .App {
